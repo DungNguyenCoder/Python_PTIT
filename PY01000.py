@@ -1,3 +1,3 @@
-name = input();
+name = input()
 
 print(f"Hello {name}!")
